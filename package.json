@@ -1,0 +1,33 @@
+{
+  "name": "web3-week2",
+  "version": "1.0.0",
+  "description": "Week2 on the road",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saribmahmood55/web3-week2.git"
+  },
+  "keywords": [
+    "web3"
+  ],
+  "author": "Sarib Mahmood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saribmahmood55/web3-week2/issues"
+  },
+  "homepage": "https://github.com/saribmahmood55/web3-week2#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.6",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "chai": "^4.3.6",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.6.6",
+    "hardhat": "^2.9.5"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
